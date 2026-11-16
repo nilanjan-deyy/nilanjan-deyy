@@ -8,7 +8,7 @@
 
 ## About Me
 
-I'm Nilanjan, a **BCA student at Techno India University, Kolkata**. I enjoy building responsive websites, learning new technologies, and solving problems with code. I'm looking for an entry-level role in web or software development where I can apply my skills and keep growing.
+I'm Nilanjan, a **BCA student at Techno India University, Kolkata**. I enjoy building responsive websites, learning new technologies, and solving problems with code. I'm looking for an entry-level role in web development where I can apply my skills and keep growing.
 
 ---
 
